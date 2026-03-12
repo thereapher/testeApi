@@ -1,10 +1,31 @@
-# Criar Repositorio
+# Criar repositório 
 
-no dashboard do github, clicar em "New Repository", escolher um nome e clicar em "Create Repository" selecionar a opção node
+No Dashboard do github clicar no botão NOVO/NEW
 
-# Clonar o Repositorio:
+Escolher nome/visibilidade/gitignore: NODE
 
-Abrir o git bash e digitar o comando:
-git clone (URL do repositorio)
+# Clonar o repositório:
 
-# Subir uma alteração:
+Abrir o git bash e rodar o comando
+git clone URLDOREPOSITORIO
+
+# Subir uma alteração 
+
+Fazer uma alteração
+no git bash da pasta do seu repositório rodar os seguintes comandos
+
+git status
+git add .
+git status
+git commit -m "NOME DO COMMIT"
+git push
+
+OBS
+Caso precise configurar:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+Automáticamente ele vai abrir uma caixinha pode confirmar!
+
+
+
