@@ -27,5 +27,7 @@ git config --global user.name "Your Name"
 
 Automáticamente ele vai abrir uma caixinha pode confirmar!
 
+funcionou
+
 
 
